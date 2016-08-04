@@ -1,0 +1,41 @@
+_repo: The-Crushed-Flower-and-Other-Stories_5779
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Bernstein, Herman
+    birthdate: 1876
+    deathdate: 1935
+    gutenberg_agent_id: '1006'
+    url: http://www.gutenberg.org/2009/agents/1006
+creator:
+  author:
+    agent_name: Andreyev, Leonid
+    aliases:
+    - Андреев, Леонид Николаевич
+    - Andreyev, Leonid Nikolayevich
+    - Andreev, Leonid Nikolaevich
+    birthdate: 1871
+    deathdate: 1919
+    gutenberg_agent_id: '1871'
+    url: http://www.gutenberg.org/2009/agents/1871
+    wikipedia: http://en.wikipedia.org/wiki/Leonid_Andreyev
+description: ''
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5779'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Russian fiction -- Translations into English'
+- !lcsh 'Short stories, Russian -- Translations into English'
+- !lcc 'PG'
+- !lcsh 'Andreyev, Leonid, 1871-1919 -- Translations into English'
+- GITenberg
+tableOfContents: The crushed flower -- A story which will never be finished -- On
+  the day of the crucifixion -- The serpent's story -- Love, faith and hope -- The
+  ocean -- Judas Iscariot and others -- "The man who found the truth."
+title: The Crushed Flower and Other Stories
+url: http://www.gutenberg.org/ebooks/5779
